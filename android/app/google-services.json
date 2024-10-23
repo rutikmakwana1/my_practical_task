@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093758562801",
+    "project_id": "practica455fal-",
+    "storage_bucket": "practical-455fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093758562801:android:f025f1a343897f8745d450",
+        "android_client_info": {
+          "package_name": "com.my_practical.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALgKBlSwr_Bayl8mOECP7_LKhnRz8XKVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
